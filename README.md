@@ -8,5 +8,6 @@ Prank your friends - install details coming soon
 
 ## Contributing
 
-Don't see your fav feature? Put the thing down, flip it, and backmask it. PRs welcome! 
+Don't see your fav feature? Pull the thing down, flip it, and backmask it. PRs welcome! 
+
 
